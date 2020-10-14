@@ -1,2 +1,3 @@
-# test-cloudspace
-Playground for cloudspace
+# Codespaces
+
+Playground for [Codespaces](https://github.com/features/codespaces).
